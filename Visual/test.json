@@ -1,0 +1,10 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [1000, 50],
+      "tensorPath": "https://drive.google.com/file/d/118MxQsaNDPZ_Bv8D7ks1xBa5KwoKxn8e/view?usp=sharing",
+      "metadataPath": "https://drive.google.com/file/d/11TBsfK2h1s0jyVK0Dh5GRtjxCUeeQOFn/view?usp=sharing"
+    }
+  ]
+}
