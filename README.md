@@ -31,15 +31,18 @@ S-curve 같은 경우에는 Logistic Model과 Gompertz 모델을 사용하였으
 
 ![image](https://user-images.githubusercontent.com/73458088/207751394-d1c39553-579d-4108-8c57-066fed01ac40.png)
 
-S-curve Graph
+<S-curve Graph>
+
 ![image](https://user-images.githubusercontent.com/73458088/207751482-e12c9d71-0560-45c9-9bfe-7a18c13c2d70.png)
 
 
-기술혁신 주기 Graph
+<기술혁신 주기 Graph>
+
 ![image](https://user-images.githubusercontent.com/73458088/207751506-92de150c-3608-440f-880d-2d4a0859918d.png)
 
 
-TCT 지수 값
+<TCT 지수 값>
+
 ![image](https://user-images.githubusercontent.com/73458088/207751524-e22e8453-b63d-43c6-b375-eabcc19ffe2c.png)
 
 
@@ -56,6 +59,7 @@ TCT 지수 값
 수가 증가
 
 원천성 분석 같은 경우에는 피인용/인용 관계를 도식화 해보았고, TCT 값을 기반으로 도식화 해보니 다음과 같았습니다. 도식화한 인용 / 피인용 관계를 통해서 원천 기술이 무엇인지 추론할 수 있습니다.
+
 ![image](https://user-images.githubusercontent.com/73458088/207751971-e29d62b1-ca4e-4d5a-ad2e-6e00b85311f6.png)
 
 
