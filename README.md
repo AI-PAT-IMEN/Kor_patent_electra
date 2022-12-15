@@ -31,15 +31,21 @@ S-curve 같은 경우에는 Logistic Model과 Gompertz 모델을 사용하였으
 
 ![image](https://user-images.githubusercontent.com/73458088/207751394-d1c39553-579d-4108-8c57-066fed01ac40.png)
 
+
+
 <S-curve Graph>
 
 ![image](https://user-images.githubusercontent.com/73458088/207751482-e12c9d71-0560-45c9-9bfe-7a18c13c2d70.png)
 
 
+  
+  
 <기술혁신 주기 Graph>
 
 ![image](https://user-images.githubusercontent.com/73458088/207751506-92de150c-3608-440f-880d-2d4a0859918d.png)
 
+  
+  
 
 <TCT 지수 값>
 
