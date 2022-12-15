@@ -73,5 +73,15 @@ S-curve 같은 경우에는 Logistic Model과 Gompertz 모델을 사용하였으
 
 
 
+# 폴더 정리
+
+- Crawling 폴더에는 전체 30만건, 11만건 의 크롤링 코드가 존재합니다. (Selenium X)
+- Sentence_Similarity에서는 선정한 특허와 다른 특허들의 청구항 + 요약의 텍스트 유사도를 계산하였습니다
+- Data_analysis 폴더에서는 데이터 전처리, EDA 및 S-curve 및 기술 혁신 주기 그래프를 그렸습니다.
+- Visulization 폴더에서는 선정한 특허를 웹페이지에 띄울려고 시도하였습니다. 시도는 성공하였으나, 발표에서 시간상의 이유로 생략하였습니다.
+
+
+
+
 
 
