@@ -33,7 +33,7 @@ S-curve 같은 경우에는 Logistic Model과 Gompertz 모델을 사용하였으
 
 
 
-<S-curve Graph>
+<S-curve의 Graph>
 
 ![image](https://user-images.githubusercontent.com/73458088/207751482-e12c9d71-0560-45c9-9bfe-7a18c13c2d70.png)
 
